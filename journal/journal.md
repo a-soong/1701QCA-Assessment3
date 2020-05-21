@@ -151,3 +151,10 @@ What techniques, approaches, skills, or information did you find useful from oth
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
+For this project, there's been plenty of coin banks made before so I researched a lot of those already made products and saw what I wanted and didn't want to implement. "The Design of Everyday Things" by Don Norman is a huge resource as well for design, and I've applied his thinking to both this project and others that I've been working for in other classes. A whole lot of perservation, trial and error and help was required to get this project to do what I wanted it to do. Although the PIR detector wasn't exactly perfect and didn't perform the way I wanted it to every time, for the limitations of the PIR and the micro:bit it turned out I think the best it could. I was quite worried about the switch button but with some help that turned out to be one of the easier things to implement.  
+
+The top hat, bowtie and Nagbot 3000's really disturbed face was just all for fun, and to give him more character rather than him being just a coin bank - with a face he seems more like a robot with emotion (disturbed emotions). This project would never, ever work as a product intended to produce and sell simply because it's just too annoying, it's mainly just for novelty purposes. 
+
+An interesting extension for this project would be to add some motors that would allow him to have moving legs and/or arms. With that you could make him do a silly dance every time a coin was inserted!!
+
