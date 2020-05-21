@@ -62,17 +62,17 @@ EDIT: After deliberation I have decided to use the PIR motion sensor, as the T-A
 ### Design intent ###
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
 A device that displays emotion until a certain action is complete.
-### Design ideation ###
-### Design concept 2 ###
+
+### Design ideation 2 ###
 
 ![Image](concept2.png)
 
-### Design concept 3 ###
+### Design ideation 3 ###
 
 ![Image](concept3.png)
 
 ### Final design concept ###
-Original few designs for concept 1:
+Original few designs for design ideation 1:
 ![Image](concept1.png)
 Final design 1:
 ![Image](expandingconcept.png)
