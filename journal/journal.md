@@ -121,6 +121,8 @@ I then worked on the PIR detector.
 
 And with all three elements working by themselves, it was time to code them together and have it all connected. I put all the code together, added the tunes that I desired and put pauses to hope that the coinbank could run smoother. At this stage I also added some aesthetic decoration to the coin bank, giving him a face, legs, a bowtie and a top hat. 
 
+![Image](handsome.jpg)
+
 ![Image](image10.jpg)
 
 ![Image](code4.png)
@@ -131,7 +133,6 @@ After this code was finalised, I attached the breadboard with the push switch to
 
 ![Image](interior.jpg)
 
-![Image](handsome.jpg)
 
 ## Final code ##
 
