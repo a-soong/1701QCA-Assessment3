@@ -95,7 +95,13 @@ I began by figuring out what I wanted my coin bank to do, which were:
 
 The easiest to install was the Piezo Buzzer to play sound as it's something I've done previously with other micro:bit experiments. It was quite straightforward. I put in some basic coding to make sure it worked. 
 
+![Image](code1.png)
 
+![Image](test1.png)
+
+At this stage it plays the opening tune when turned on and then the angry tune after 5000 m/s. 
+
+I cleared this code, and then began to work on the external button. 
 
 ## Final code ##
 
