@@ -3,7 +3,7 @@
 ## 1701QCA Making Interaction 2020 Final Project ##
 
 
-![Image](finalimage.png)
+![Image](finalimage1.png)
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
