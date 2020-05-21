@@ -128,6 +128,9 @@ And with all three elements working by themselves, it was time to code them toge
 At this stage, the coin bank wasn't working properly. It's detection was pretty weird, and didn't work. After a lot of testing, changing the yellow pin plug in the PIR and switching to show LEDs (see final code) and it was working as well as it could with it's limits.  
 
 After this code was finalised, I attached the breadboard with the push switch to the roof of the bank, added a storey so the micro:bit, connector, breadboard and battery pack had somewhere to stay and the PIR just under the coin slot. 
+
+![Image](interior.jpg)
+
 ## Final code ##
 
 ![Image](finalcode.png)
