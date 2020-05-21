@@ -7,17 +7,51 @@
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
 
-### *Insert name of related project here* ###
+### Related project 1 ###
+Microbit: My robot asks me for money 
 
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+https://www.youtube.com/watch?v=Jskg6gfSGd8
 
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+![Image](related1.png)
 
-<!--- Include information about why this project is related to yours. --->
+I found this video while researching for Assessment 1 and it was a huge inspiration for my project. It's a robot with a simple function made possible by the micro:bit. A small detail I liked was the sound of the coin container slapping back on the table after storing the coins - it unintentially gives the robot character. 
 
-<!--- Repeat code above for a total of 6 related projects --->
+### Related project 2 ###
+Micro:bit milk jar robot
+
+https://youtu.be/Ah4fEbJtklU
+
+![Image](related2.png)
+
+Similarly to the first related project, it's another cute robot friend. Seeing this project made me consider putting movement in my project, but it did definitely give me ideas on how to give my coin bank some personality. Maybe incorporate some movement?
+
+### Related project 3 ###
+Interactive Animal Coin Bank
+
+https://www.youtube.com/watch?v=qJ--GDy52ns
+
+![Image](related3.png)
+
+A popular interactive toy that has a simple sensor to detect the weight of the coin, and then a character that grabs the coin. Video attached shows the mechanisms inside. This relates to my porject in terms of an event happening after the coin is inserted/placed in. 
+
+### Related project 4 ###
+Fish Bank 
+
+https://www.youtube.com/watch?v=qVyXm434qMU
+
+![Image](related4.png)
+
+An interactive coin bank by Moose toys. I don't think this product was a huge success but it caught my eye when I was young. When a coin is inserted, a sequence of animation appears on the screen. Counts the money inserted in the bank and has various other interactive options. 
+
+### Related project 5 ###
+Fisher-Price Laugh & Learn: Learning Piggy Bank
+
+https://www.fisher-price.com/en-us/product/laugh-learn-smart-stages-piggy-bank-cdg67
+
+![Image](related5.png)
+
+An interactive coin bank toy by Fisher Price. Has a sensor as it counts the coins and has other features such as music, silly sounds and phrases. Related to my project by it's function. 
+
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
