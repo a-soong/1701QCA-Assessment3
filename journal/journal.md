@@ -101,7 +101,11 @@ The easiest to install was the Piezo Buzzer to play sound as it's something I've
 
 At this stage it plays the opening tune when turned on and then the angry tune after 5000 m/s. 
 
-I cleared this code, and then began to work on the external button. 
+I then cleared this code and removed the buzzers to test the PIR motion detector using the following code: 
+
+![Image](code2.png)
+
+![Image](test2.png)
 
 ## Final code ##
 
