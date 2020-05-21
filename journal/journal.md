@@ -88,11 +88,10 @@ Exterior looks the same but the interior is redone to make more sense and functi
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
-
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
-
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+I began by figuring out what I wanted my coin bank to do, which were:
+1. Turn on/off with an external button.
+2. Detect the coin going into the bank.
+3. Play sound. 
 
 ## Final code ##
 
