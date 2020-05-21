@@ -93,6 +93,10 @@ I began by figuring out what I wanted my coin bank to do, which were:
 2. Detect the coin going into the bank.
 3. Play sound. 
 
+The easiest to install was the Piezo Buzzer to play sound as it's something I've done previously with other micro:bit experiments. It was quite straightforward. I put in some basic coding to make sure it worked. 
+
+
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
