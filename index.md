@@ -7,13 +7,16 @@
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
+The Nagbot 3000 is a coin bank made to yell at those who need to save more loose change. He plays a happy melody when a coin is inserted, and mumbles an awful noise when he's hungry for more coins!
+
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
 ![Image](finalimage2.jpg)
 
 <!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
 
-[![Image](finalimage3.png)]https://www.youtube.com/watch?v=kOmgF2bH3H0&feature=youtu.be
+[![Image](finalimage3.png)]
+https://www.youtube.com/watch?v=kOmgF2bH3H0&feature=youtu.be
 
 ### Journal ###
 
