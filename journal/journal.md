@@ -131,6 +131,8 @@ After this code was finalised, I attached the breadboard with the push switch to
 
 ![Image](interior.jpg)
 
+![Image](handsome.jpg)
+
 ## Final code ##
 
 ![Image](finalcode.png)
