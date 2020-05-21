@@ -109,7 +109,7 @@ And yay!! No issues. Then I cleared that and worked on the external on/off butto
 
 ![Image](code3.png)
 
-![Image](test3.png)
+![Image](test3.jpg)
 
 ## Final code ##
 
