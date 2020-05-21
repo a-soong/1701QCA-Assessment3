@@ -105,7 +105,11 @@ I then cleared this code and removed the buzzers to test the PIR motion detector
 
 ![Image](code2.png)
 
-And yay!! No issues.
+And yay!! No issues. Then I cleared that and worked on the external on/off button. I originally bought a pushbutton switch with a latching bottom (I think is what they're called? https://www.jaycar.com.au/spst-pushbutton-black-actuator-latching/p/SP0718) but found it much more easier to install a bigger push switch that can be connected to a breadboard. This button is attached to a separate breadboard from the piezo buzzer board. 
+
+![Image](code3.png)
+
+![Image](test3.png)
 
 ## Final code ##
 
