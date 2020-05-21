@@ -115,7 +115,7 @@ So I had to make some adjustments here, As I had to stick this breadboard up to 
 
 I then worked on the PIR detector. 
 
-![Image](pirtest.png)
+![Image](pirtest.jpg)
 
 ![Image](pircode.png)
 
