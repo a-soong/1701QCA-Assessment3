@@ -7,7 +7,7 @@
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
-The Nagbot 3000 is a coin bank made to yell at those who need to save more loose change. He plays a happy melody when a coin is inserted, and mumbles an awful noise when he's hungry for more coins!
+The Nagbot 3000 is a coin bank made to yell at those who need to save more loose change. He plays a happy melody when a coin is inserted, and mumbles an awful noise when he's hungry for more coins! Ages 3 and up.
 
 
 ![Image](features.png)]
