@@ -111,7 +111,7 @@ And yay!! No issues. Then I cleared that and worked on the external on/off butto
 
 ![Image](test3.jpg)
 
-So I had to make some adjustments here, As I had to stick this breadboard up to the roof of the coin box with the button peaking out, I couldn't have one of my typical jumper cables with the black tip as it would block the button from being pressed. I ended up using a different wiring, and then connecting that end of the wiring to the jumper cables that I usually used. 
+So I had to make some adjustments here, As I had to stick this breadboard up to the roof of the coin box with the button peaking out, I couldn't have one of my typical jumper cables with the black tip as it would block the button from being pressed. I ended up using a different wiring, and then connecting that end of the wiring to the jumper cables that I usually used. At this stage I also had my cardboard box, and cut a small hole on the top so the button can be pressed. 
 
 I then worked on the PIR detector. 
 
@@ -120,6 +120,8 @@ I then worked on the PIR detector.
 ![Image](pircode.png)
 
 And with all three elements working by themselves, it was time to code them together and have it all connected. 
+
+![Image](image10.jpg)
 
 ## Final code ##
 
