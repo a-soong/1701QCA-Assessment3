@@ -86,7 +86,7 @@ Exterior looks the same but the interior is redone to make more sense and functi
 ![Image](flowchart.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material. --->
 
 I began by figuring out what I wanted my coin bank to do, which were:
 1. Turn on/off with an external button.
