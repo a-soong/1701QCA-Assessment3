@@ -77,7 +77,9 @@ Original few designs for concept 1:
 Final design 1:
 ![Image](expandingconcept.png)
 
-
+EDIT: Final Concept 2.0
+![Image](finalconcept.png)
+Exterior looks the same but the interior is redone to make more sense and function. 
 ### Interaction flowchart ###
 ![Image](flowchart.png)
 
