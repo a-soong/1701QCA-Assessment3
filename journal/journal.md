@@ -119,7 +119,9 @@ I then worked on the PIR detector.
 
 ![Image](pircode.png)
 
-And with all three elements working by themselves, it was time to code them together and have it all connected. 
+And with all three elements working by themselves, it was time to code them together and have it all connected. I put all the code together, added the tunes that I desired and put pauses to hope that the coinbank could run smoother. 
+
+![Image](code4.png)
 
 ![Image](image10.jpg)
 
