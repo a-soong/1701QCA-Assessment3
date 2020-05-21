@@ -141,6 +141,8 @@ After this code was finalised, I attached the breadboard with the push switch to
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
+As I outlined three relatively simple elements in my project, and was able to make each of them work individually, I didn't think I'd have trouble implementing it all together the way I did. A lot of trial and error, external help and experimentation with coding. And when one thing seemed to fix, another problem would arise. So a lot of research, developing, discovering and then evolving. And then rinse and repeat. I was constantly learning something new every step of the way. 
+
 
 ## Reflection ##
 
