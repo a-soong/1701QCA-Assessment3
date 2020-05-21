@@ -105,7 +105,7 @@ I then cleared this code and removed the buzzers to test the PIR motion detector
 
 ![Image](code2.png)
 
-![Image](test2.png)
+And yay!! No issues.
 
 ## Final code ##
 
