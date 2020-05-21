@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Lai Sei Soong*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -63,15 +63,23 @@ EDIT: After deliberation I have decided to use the PIR motion sensor, as the T-A
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
 A device that displays emotion until a certain action is complete.
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+### Design concept 2 ###
+
+![Image](concept2.png)
+
+### Design concept 3 ###
+
+![Image](concept3.png)
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+Original few designs for concept 1:
+![Image](concept1.png)
+Final design 1:
+![Image](expandingconcept.png)
+
 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
-
-![Image](missingimage.png)
+![Image](flowchart.png)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
