@@ -52,6 +52,14 @@ https://www.fisher-price.com/en-us/product/laugh-learn-smart-stages-piggy-bank-c
 
 An interactive coin bank toy by Fisher Price. Has a sensor as it counts the coins and has other features such as music, silly sounds and phrases. Related to my project by it's function. 
 
+### Related project 6 ###
+Interactive Japanese Coin Bank (name unknown)
+
+https://www.youtube.com/watch?v=zX_6OfEhZnM
+
+![image](related6.png)
+
+I haven't seen this one before until quite recently, it's got a motor mechanism which when the coin is detected, moves circular. Very cute and unique! Would be great as an extension to this project in some way. 
 
 ## Other research ##
 I've had a look into what I could use to implement the motion sensing for this project. I have a ultrasonic sensor lying around but I don't think that'll do the job. After some research into other projects I found a Arduino Compatible PIR Motion Detector Module (https://www.jaycar.com.au/arduino-compatible-pir-motion-detector-module/p/XC4444), but after having spoken to a Jaycar Representative they've let me know that I'd need a T-Adaptor shield. Because of self isolating as well, I've decided against this and I had the idea of implementing a similar design inspired by my timing gates project. By using cardboard and aluminium foil to detect the movement of the coin as it enters through the slot, I can get the micro:bit to play a sequence of tunes when this event occurs (happy tune). After five seconds if another coin isn't inserted again it goes to play the angry tune (see interaction flowchart).
