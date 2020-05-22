@@ -133,6 +133,7 @@ After this code was finalised, I attached the breadboard with the push switch to
 
 ![Image](interior.jpg)
 
+Of course tape isn't the most sturdy way to stick things with, but for my limitations of just having the materials I got at home, and wanting to reuse them as well tape was just the way to go.
 
 ## Final code ##
 
